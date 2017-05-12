@@ -1,6 +1,9 @@
 # angular-backand
 Angular + Backand
 
+# Live Demo
+https://hosting.backand.io/ng1app
+
 # Setup project
 - Clone Repo
 - npm install or sudo install
